@@ -23,7 +23,7 @@ const Home: NextPage = () => {
       <div className="bg-gray-100 pt-10 pb-24">
         <div className="container">
           <div className="flex justify-center space-x-4">
-            <Link href="/">
+            <Link href="/terms">
               <a className="text-gray-600">利用規約</a>
             </Link>
             <Link href="/">
